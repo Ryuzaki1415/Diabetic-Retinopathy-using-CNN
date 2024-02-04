@@ -1,6 +1,16 @@
 # Diabetic Retinopathy
 
 # Run
+
+<h2>Create a virutal environment</h2>
+
+
+```python
+python -m venv .venv
+#activate by
+.venv\Scripts\activate
+```
+
 ```python
 pip install requirements.txt
 ```
